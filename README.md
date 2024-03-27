@@ -24,6 +24,7 @@ The objective of this project is to build a machine learning model capable of es
 The dataset used for this project includes historical sales data from Walmart stores, Store	,Date	,Weekly_Sales,	Holiday_Flag,	Temperature,	Fuel_Price,	CPI	,Unemployment. This dataset will be used for training and evaluating the machine learning models.
 
 # 3) Uber Hot-Zone Identification Project
+## The code on GitHub may not be fully displayed. You can access the complete project by downloading it.
 
 ## Company's Description 📇
 Uber is one of the most famous startups in the world. It started as a ride-sharing application for people who couldn't afford a taxi. Now, Uber has expanded its activities to include Food Delivery with Uber Eats, package delivery, freight transportation, and even urban transportation with Jump Bike and Lime, companies that Uber has funded.
