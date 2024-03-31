@@ -2,7 +2,7 @@
 # 1) Conversion Rate Prediction Model
 
 ## Company's Description 📇
-[Data Science Weekly](www.datascienceweekly.org) is a famous newsletter curated by independent data scientists. Anyone can register his/her e-mail address on this website to receive weekly news about data science and its applications!
+Data Science Weekly is a famous newsletter curated by independent data scientists. Anyone can register his/her e-mail address on this website to receive weekly news about data science and its applications!
 
 ## Project Overview 🚧
 The objective of this project is to build a model that predicts if a given user will subscribe to the newsletter, using just a few pieces of information about the user. Additionally, the parameters of the model will be analyzed to highlight features that are important in explaining the behavior of users. The assessment of the models' performance will be based on the F1-score metric.
@@ -24,6 +24,8 @@ The objective of this project is to build a machine learning model capable of es
 The dataset used for this project includes historical sales data from Walmart stores, Store	,Date	,Weekly_Sales,	Holiday_Flag,	Temperature,	Fuel_Price,	CPI	,Unemployment. This dataset will be used for training and evaluating the machine learning models.
 
 # 3) Uber Hot-Zone Identification Project
+## The code on GitHub may not be fully displayed. You can access the complete project by downloading it.
+## Also you can check it here : [Uber Project](https://nbviewer.org/github/eugeniamellano/Bloc-3/blob/main/Uber/Uber_Final_J.ipynb)
 
 ## Company's Description 📇
 Uber is one of the most famous startups in the world. It started as a ride-sharing application for people who couldn't afford a taxi. Now, Uber has expanded its activities to include Food Delivery with Uber Eats, package delivery, freight transportation, and even urban transportation with Jump Bike and Lime, companies that Uber has funded.
